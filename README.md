@@ -1,2 +1,3 @@
 # Multi-Label-Classification-Eurlex
+The dataset is crawled from EUR-Lex, which is a corpus of legislative documents of the European Union. It con¬tains many dif¬fer¬ent types of doc¬u¬ments like treaties, leg¬is¬la¬tion, case-law, leg¬isla¬tive pro¬pos¬als etc. which are in twenty-four official European languages. The dataset con¬sti¬tutes a very chal¬leng¬ing mul¬ti¬l¬abel sce¬nario due to the high num¬ber of around 4000 labels and 20000 documents.
 The main challenge in multi label classification is that regular classification methods cannot be employed since several labels could be possibly assigned to a single document. Incorporating a model that could perform well in this scenario of large-scale legal domain was the major motive.
