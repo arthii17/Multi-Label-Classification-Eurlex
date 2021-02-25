@@ -3,10 +3,11 @@ The dataset is crawled from EUR-Lex, which is a corpus of legislative documents 
 
 The main challenge in multi label classification is that regular classification methods cannot be employed since several labels could be possibly assigned to a single document. Incorporating a model that could perform well in this scenario of large-scale legal domain was the major motive.
 
-Exploratory Analysis of EurLex Dataset:
-
+Exploratory Analysis of EurLex Dataset-
 Frequently Used labels:
 ![image](https://github.com/arthii17/Multi-Label-Classification-Eurlex/blob/main/Charts/Frequent_Labels.JPG)
+
+
 
 Number of labels assigned to documents: 
 ![image](https://github.com/arthii17/Multi-Label-Classification-Eurlex/blob/main/Charts/Labels.JPG)
